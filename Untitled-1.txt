@@ -1,0 +1,4 @@
+>>> tsc arrays.ts
+>>> tsc arrays.ts  
+>>> node arrays.js 
+>>> ts
